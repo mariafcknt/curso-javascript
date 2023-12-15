@@ -1,9 +1,11 @@
-/*const {gets, print} = require('./funcoes_auxiliares');
+const {gets, print} = require('./funcoes_auxiliares');
 
-console.log(funcoes.gets())
+//console.log(gets())
 
-print(gets());*/
+print(gets());
 
-const {maiorNumeroSorteado} = require('./funcoes_auxiliares');
 
-console.log(maiorNumeroSorteado())
+
+//const {maiorNumeroSorteado} = require('./funcoes_auxiliares');
+
+//console.log(maiorNumeroSorteado())
