@@ -19,5 +19,6 @@ for (let i = 0; i < numeros.length; i++) {
     }
 }
 
+
 print(`Maior número par = ${maior_par}`)
 print(`Menor número ímpar = ${menor_impar}`)
