@@ -14,13 +14,12 @@ console.log(var1 - var2); = - 10
 //O const é igual ao let mas não permite reatribuições
 
 const pi = 3.14;
-pi = pi + 2
 console.log(pi)
 
 if (true) {
-    let nome = 'Paulo';
+    //let nome = 'Paulo';
     var idade = 28;
 }
 
-console.log(nome) //não vai printar nada pois a variável nome existe apenas dentro do bloco do if
+//console.log(nome) //não vai printar nada pois a variável nome existe apenas dentro do bloco do if
 console.log(idade) //vai printar pois a variável idade está no escopo global
